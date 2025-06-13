@@ -34,3 +34,6 @@ build/
 
 ### Mac Os ###
 ./DS_Store
+
+### Spring ENV ###
+./src/main/resources/application.propreties
